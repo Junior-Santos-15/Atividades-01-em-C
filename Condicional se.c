@@ -9,6 +9,7 @@ int main()
 //Declaração das variáveis
 float nota;
 
+//Solicitando as informações    
 printf("Digite o valor: \n");
 scanf("%f",&nota);
 
